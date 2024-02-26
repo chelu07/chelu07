@@ -12,7 +12,7 @@
 📥 ¿Hablamos? 📧 Mi correo es chelucontacto@gmail.com y mi Linked-in https://www.linkedin.com/in/chelu-herrera/
 
 ## Projects
-### [**Kankoo**](https://github.com/chelu07/KankooApp)
+### 🔗 [**Kankoo**](https://github.com/chelu07/KankooApp)
 `JavaScript / Node.js / React / HTML5 / CSS3 / MySQL / Bootstrap / SASS`
 
 
