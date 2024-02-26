@@ -9,7 +9,7 @@
 ## Tools
 ![logos-pdf](https://github.com/chelu07/chelu07/assets/147407076/2eff73cc-1f5d-4016-9e12-96518f645645)
 
-📥 ¿Hablamos? 📧 Mi correo es chelucontacto@gmail.com y mi Linked-in https://www.linkedin.com/in/chelu-herrera/
+📥 ¿Hablamos? Mi correo es chelucontacto@gmail.com y mi LinkedIn https://www.linkedin.com/in/chelu-herrera/
 
 ## Projects
 ### 🔗 [**Kankoo**](https://github.com/chelu07/KankooApp)
