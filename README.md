@@ -2,6 +2,7 @@
 
 ## My projects
 ### **Kankoo**
+**JavaSricpt / Node.js / React / HTML5 / CSS3 / MySQL / Bootstrap / SASS** 
 
 
 📧 Mi correo es chelucontacto@gmail.com y mi Linked-in https://www.linkedin.com/in/chelu-herrera/
